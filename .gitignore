@@ -13,4 +13,4 @@ deps/
 .idea
 
 # sublime
-*.sublime-*
+#*.sublime-*
