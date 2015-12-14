@@ -1,0 +1,16 @@
+*.beam
+.*/
+ebin/
+deps/
+.dialyzer.plt
+*.dump
+
+# vim
+.*.swp
+
+# IntelliJ
+*.iml
+.idea
+
+# sublime
+*.sublime-*
