@@ -1,3 +1,3 @@
-# Erlang Sample app.
+# Erlang cowboy app example.
 
 
