@@ -1,11 +1,13 @@
 {application, cowboy_sample,
  [
-  {description, ""},
-  {vsn, "1"},
+  {description, "sample app"},
+  {vsn, git},
   {registered, []},
   {applications, [
                   kernel,
-                  stdlib
+                  stdlib,
+                  cowboy,
+                  jsone
                  ]},
   {mod, { cowboy_sample_app, []}},
   {env, []}
